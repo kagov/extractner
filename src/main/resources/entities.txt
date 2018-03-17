@@ -1,0 +1,6 @@
+avengers	MOVIE
+thor	MOVIE
+captain america	MOVIE
+apple	FRUIT
+mango	FRUIT
+pineapple	FRUIT
